@@ -1,2 +1,3 @@
 # hello-world
-A repository for storing files
+
+I like to code!
